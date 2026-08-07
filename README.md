@@ -79,6 +79,8 @@ A curated list of awesome SEO tools, crawlers, and free utilities for search mar
 - [GTmetrix](https://gtmetrix.com/) - Page speed analysis with waterfall breakdowns and recommendations.
 - [Wordfence](https://www.wordfence.com/) - Free security scanner useful for protecting link-acquiring sites.
 
+- [Vaytric Link Health](https://vaytric.com/link-health/) - Free multi-URL broken link checker; optional one-time $5 full-site crawl CSV for 404s, 5xx, redirects, and missing titles.
+
 ## Local SEO
 
 - [BrightLocal](https://www.brightlocal.com/) - Local SEO platform with citation building and review monitoring.
