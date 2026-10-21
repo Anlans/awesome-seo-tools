@@ -116,6 +116,7 @@ Tools we build and maintain, provided free for the community.
 - [Image to Video AI](https://image-to-video-ai.im/) - Free AI tool that turns images into animated videos, useful for product demos and content marketing.
 - [ImageLayer](https://imagelayer.im/) - AI image layer splitter that breaks a flat image into editable layers and exports a layered PSD or PNG ZIP.
 - [Edytro](https://edytro.com/) - AI image editor that transforms, enhances, removes, or replaces parts of a photo from a text prompt.
+- [OC Maker](https://ocmaker.art/) - AI character creator and OC generator for designing original characters.
 
 ## Contributing
 
