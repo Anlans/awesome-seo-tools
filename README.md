@@ -92,6 +92,7 @@ A curated list of awesome SEO tools, crawlers, and free utilities for search mar
 - [Looker Studio](https://lookerstudio.google.com/) - Free reporting dashboards connecting to 600+ data sources.
 - [Similarweb](https://www.similarweb.com/) - Traffic intelligence and competitor benchmarking.
 - [Plausible](https://plausible.io/) - Lightweight, privacy-friendly web analytics.
+- [Vaneform](https://vaneform.com/) - Free website traffic estimates and competitive intelligence for indie makers.
 
 ## Browser Extensions
 
