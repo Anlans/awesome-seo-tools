@@ -43,6 +43,7 @@ A curated list of awesome SEO tools, crawlers, and free utilities for search mar
 - [Majestic](https://majestic.com/) - Trust Flow / Citation Flow metrics and backlink history maps.
 - [Moz Link Explorer](https://moz.com/link-explorer) - Link analysis with Domain Authority and Spam Score metrics.
 - [CognitiveSEO](https://www.cognitiveseo.com/) - Backlink monitoring with link risk assessment and disavow file generation.
+- [Datacircle](https://datacircle.dev) - Benchmarks of backlink, keyword and SERP APIs, ranked by accuracy and what 1,000 calls cost.
 - [Hunter.io](https://hunter.io/) - Email finder for outreach and digital PR link building.
 - [Pitchbox](https://pitchbox.com/) - Outreach automation platform for link building campaigns.
 - [Monitor Backlinks](https://monitorbacklinks.com/) - Backlink monitoring with spam score alerts.
