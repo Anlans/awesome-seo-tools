@@ -118,6 +118,7 @@ Tools we build and maintain, provided free for the community.
 - [Edytro](https://edytro.com/) - AI image editor that transforms, enhances, removes, or replaces parts of a photo from a text prompt.
 - [OC Maker](https://ocmaker.art/) - Powerful AI character creator and OC generator, a step beyond Picrew-style makers, that turns your ideas into polished, professional-looking original characters in seconds.
 - [Paper Animator](https://paperanimator.org/) - Browser-based tool that turns a photo or typed text into a stop-motion paper animation with torn-edge stickers, exportable as MP4 or transparent PNG.
+- [AI Code Checker](https://aicodechecker.org/) - AI-generated code detector that scores source files from 0 to 100 and highlights flagged lines with per-line explanations across Python, JavaScript, TypeScript, Go, Rust, and other languages.
 
 ## Contributing
 
